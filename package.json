@@ -1,0 +1,10 @@
+{
+  "name": "office-subs-scraper",
+  "version": "1.0.0",
+  "main": "office-subs.js",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "axios": "^1.2.2"
+  }
+}
